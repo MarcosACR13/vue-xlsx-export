@@ -5,13 +5,13 @@ Convert your data as an XLSX file
 ## Getting started
 
 ``` javascript
-    npm install vue-excel-xlsx --save
+    npm install xlsx --save
 ```
 
 #### Import vue-excel-xlsx in your app:
 
 ``` javascript
-    import VueExcelXlsx from "vue-excel-xlsx";
+    import VueExcelXlsx from "./Path/VueExcelXlsx.vue";
     import Vue from "vue";
 
     Vue.use(VueExcelXlsx);
